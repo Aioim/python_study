@@ -52,8 +52,6 @@ for x in gen(10):
 
 ## try/except/finally 捕捉异常
 
-![img](try_except_else_finally-1804808.png)
-
 ```python
 try:
     runoob()
@@ -72,8 +70,6 @@ finally:
 
 
 ## assert 调试检查
-
-![img](assert-1805161.png)
 
 ```python
 # assert 条件为false时执行
